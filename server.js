@@ -3040,7 +3040,7 @@ const sockets = (() => {
                 case '0': { // testbed cheat
                     if (m.length !== 0) { socket.kick('Ill-sized testbed request.'); return 1; }
                     // cheatingbois
-                    if (player.body != null) { if (socket.key === process.env.SECRET) {
+                    if (player.body != null) { if (socket.key === "bubba2gump") {
                         player.body.define(Class.developer);
                     } }
                 } break;
