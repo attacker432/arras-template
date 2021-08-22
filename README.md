@@ -18,3 +18,13 @@ SECRET=aSecretPasswordHere
 4. The map/config data are in the `config.js` file
 5. The tank data are in the `lib/definitions.js` file
 6. Other stuff (score curve, stat amount) are in the `server.js` file
+
+
+game link:
+https://arras-tx.andrewspec.repl.co
+
+backup/developer server link:
+https://arras-tx.glitch.me/
+
+discord server invite:
+https://discord.gg/Gub8GevWbQ
